@@ -17,7 +17,7 @@ const Portofolio = () => {
             <div className="screenshots-area pb-100" id="portofolio">
                 <div className="container">
                     <div className="section-title">
-                        <span className="sub-title">Project Teratas</span>
+                        <span className="sub-title">Top Project</span>
                         <h2>Portfolio</h2>
                     </div>
 
