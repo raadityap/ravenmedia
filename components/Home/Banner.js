@@ -13,7 +13,7 @@ const Banner = () => {
                         </h1>
 
                         <Link href="https://wa.me/6281294468841">
-                            <a className="default-btn">Hubungi Sekarang</a>
+                            <a className="default-btn">Contact Me</a>
                         </Link>
 
                         <img className='img-gray-hover' src="/images/5172476.jpg" alt="image" />
