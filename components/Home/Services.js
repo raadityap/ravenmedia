@@ -7,7 +7,7 @@ const KeyFeatures = () => {
             <div className="features-area ptb-100 bg-F7F7FF" id="service">
                 <div className="container">
                     <div className="section-title">
-                        <span className="sub-title">Bagaimana Kami Membantu Anda?</span>
+                        <span className="sub-title">How Can We Help You?</span>
                         <h2 className="title-features">Our Services</h2>
                     </div>
 
@@ -19,8 +19,7 @@ const KeyFeatures = () => {
                                 </div>
                                 <h3>App Development</h3>
                                 <p>
-                                    Kami berpengalaman dalam pembuatan aplikasi mobile
-                                    untuk IOS dan Android, dan kami siap dengan ide-ide anda.
+                                    We are experienced in making mobile apps for IOS and Android, and we are ready with your ideas.
                                 </p>
                             </div>
                         </div>
@@ -32,7 +31,7 @@ const KeyFeatures = () => {
                                 </div>
                                 <h3>Web Development</h3>
                                 <p>
-                                    Digitalisasikan bisnis perusahaan anda dan kembangkan bisnis anda lebih jauh bersama kami.
+                                    Digitize your company's business and grow your business further with us.
                                 </p>
                             </div>
                         </div>
@@ -44,7 +43,7 @@ const KeyFeatures = () => {
                                 </div>
                                 <h3>E - Commerce</h3>
                                 <p>
-                                    Mengatasi keterbatasan geografis dan menjangkau pelanggan potensial baru dengan biaya lebih rendah.
+                                    Overcome geographic limitations and reach new potential customers at a lower cost.
                                 </p>
                             </div>
                         </div>
@@ -56,7 +55,7 @@ const KeyFeatures = () => {
                                 </div>
                                 <h3>UI / UX Design</h3>
                                 <p>
-                                    Bimbing mereka melalui pengalaman pengguna yang mulus dengan antarmuka yang luar biasa.
+                                    Guide them through a seamless user experience with a great interface.
                                 </p>
                             </div>
                         </div>
@@ -68,7 +67,7 @@ const KeyFeatures = () => {
                                 </div>
                                 <h3>Digital Marketing</h3>
                                 <p>
-                                    Kami akan membantu anda meningkatkan traffic audiens dan penjualan anda yang lebih luas.
+                                    We will help you increase your traffic and sales to a wider audience.
                                 </p>
                             </div>
                         </div>
