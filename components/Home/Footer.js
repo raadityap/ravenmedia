@@ -22,7 +22,7 @@ const   Footer = () => {
                                 
                                 {/* <p>Best solution for your IT business.</p> */}
                                 <p>
-                                we are here to help you to grow your business in this fast-developing world.
+                                We are here to help you to grow your business in this fast-developing world.
                                 </p>
 
                             </div>
