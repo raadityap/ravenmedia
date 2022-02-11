@@ -9,7 +9,7 @@ const Banner = () => {
                 <div className="container">
                     <div className="content">
                         <h1>
-                            Jasa Pembuatan Website dengan riset yang mendalam menggunakan cara paling efektif dan efisien untuk mencapai Goal Marketing Anda!
+                            Website developer services with in-depth research use the most effective and efficient way to achieve your business goals!
                         </h1>
 
                         <Link href="https://wa.me/6281294468841">
