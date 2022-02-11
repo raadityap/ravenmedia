@@ -8,10 +8,10 @@ const Pricing = () => {
             <div className="pricing-area bg-black-color pt-100 pb-75" id="pricing">
                 <div className="container">
                     <div className="section-title color-white">
-                        <h2>Daftar Harga</h2>
+                        <h2>Price List</h2>
                         <p>
-                            Harga untuk pembuatan sebuah aplikasi website based maupun mobile based. 
-                            Harga ini belum termasuk pajak dan biaya layanan.
+                            The price for making a website based or mobile based application. 
+                            This price does not include tax and service charge. 
                         </p>
                     </div>
 
