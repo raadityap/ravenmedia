@@ -6,7 +6,7 @@ const Clients = () => {
             <div className="features-area ptb-100" id="client">
                 <div className="container">
                     <div className="section-title">
-                        <h2>Client Kami</h2>
+                        <h2>Our Clients</h2>
                     </div>
 
                     <div className="row justify-content-center">
